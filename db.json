@@ -1,9 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "users": [
+    {
+      "id": 1,
+      "name": "Joana da Silva Oliveira",
+      "email": "joanadasilvaoliveira@email.com.br",
+      "password": "teste",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "password": "abcdef",
+      "checked": true
+    }
+  ]
 }
