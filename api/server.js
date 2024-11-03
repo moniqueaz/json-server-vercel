@@ -11,7 +11,6 @@ const router = jsonServer.router(db);
 
 server.use(middlewares);
 
-// Rewriter to support custom routes
 server.use(
   jsonServer.rewriter({
     "/api/*": "/$1",
