@@ -10,73 +10,202 @@
   ],
   "extrato": [
     {
-      "mes": "Novembro",
-      "tipo": "Depósito",
-      "data": "21/11/2022",
-      "valor": 100,
-      "id": "e4da"
-    },
-    {
+      "id": "7e09",
       "mes": "Dezembro",
-      "tipo": "Saque",
-      "data": "15/12/2022",
-      "valor": 50,
-      "id": "58fb"
+      "tipo": "deposit",
+      "data": "09/12/2024",
+      "valor": 1000,
+      "timestamp": "2024-12-09T20:35:06.705Z"
     },
     {
-      "mes": "Novembro",
-      "tipo": "Transferência",
-      "data": "21/11/2022",
-      "valor": 500,
-      "id": "01c8"
+      "id": "60f0",
+      "mes": "Janeiro",
+      "tipo": "transfer",
+      "data": "17/01/2025",
+      "valor": -1000,
+      "timestamp": "2025-01-17T11:14:21.236Z"
     },
     {
-      "id": "af82",
-      "mes": "Outubro",
-      "tipo": "Depósito",
-      "data": "28/10/2024",
-      "valor": 500
+      "id": "0e28",
+      "mes": "Janeiro",
+      "tipo": "transfer",
+      "data": "17/01/2025",
+      "valor": -1000,
+      "timestamp": "2025-01-17T11:14:36.446Z"
     },
     {
-      "id": "c88d",
-      "mes": "Outubro",
-      "tipo": "Depósito",
-      "data": "28/10/2024",
-      "valor": 500
+      "id": "06a3",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:22:12.329Z"
     },
     {
-      "id": "e8d7",
-      "mes": "Outubro",
-      "tipo": "Transferência",
-      "data": "28/10/2024",
-      "valor": -500
+      "id": "0c75",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:22:30.531Z"
     },
     {
-      "id": "98d0",
-      "mes": "Outubro",
-      "tipo": "Transferência",
-      "data": "28/10/2024",
-      "valor": -20
+      "id": "8241",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:22:49.508Z"
     },
     {
-      "id": "d326",
-      "mes": "Outubro",
-      "tipo": "Depósito",
-      "data": "29/10/2024",
-      "valor": 12.31
+      "id": "b5c6",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:23:12.090Z"
     },
     {
-      "id": "1566",
-      "mes": "Outubro",
-      "tipo": "Transferência",
-      "data": "29/10/2024",
-      "valor": -1.21
+      "id": "94f1",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:23:31.236Z"
+    },
+    {
+      "id": "6d27",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:23:35.910Z"
+    },
+    {
+      "id": "31f1",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:24:45.641Z"
+    },
+    {
+      "id": "9b72",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:24:56.985Z"
+    },
+    {
+      "id": "8f76",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:24:59.842Z"
+    },
+    {
+      "id": "c139",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:02.007Z"
+    },
+    {
+      "id": "5e92",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:03.249Z"
+    },
+    {
+      "id": "aff4",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:42.644Z"
+    },
+    {
+      "id": "ab8c",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:43.963Z"
+    },
+    {
+      "id": "e167",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:44.859Z"
+    },
+    {
+      "id": "13ed",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:45.474Z"
+    },
+    {
+      "id": "0de0",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:46.137Z"
+    },
+    {
+      "id": "5dfd",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:46.794Z"
+    },
+    {
+      "id": "721c",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:47.512Z"
+    },
+    {
+      "id": "df3b",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:54.592Z"
+    },
+    {
+      "id": "058a",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:55.682Z"
+    },
+    {
+      "id": "4509",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "17/01/2025",
+      "valor": 10,
+      "timestamp": "2025-01-17T11:25:56.262Z"
     }
   ],
   "saldo": [
     {
       "tipo": "Conta corrente",
-      "valor": 491.1,
+      "valor": -790,
       "id": "1"
     },
     {
@@ -131,5 +260,84 @@
         "valor": 5000
       }
     ]
-  }
+  },
+  "auth": [
+    {
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IklzcmFlbCAyIiwiZW1haWwiOiJ0ZXN0ZUBnbWFpbC5jb20iLCJwYXNzd29yZCI6InRlc3RlcyIsImlkIjoiNjc2MDcxMzNmODQwYmI5Nzg5MmViNjU3IiwiaWF0IjoxNzM0MzczNjg4LCJleHAiOjE3MzQ0MTY4ODh9.jtaRKSifN_j7rFWn1KkH5fykecwhXFW0G4wLqj24I-k",
+      "id": "69f6"
+    }
+  ],
+  "user": [
+    {
+      "id": "82de",
+      "username": "Aluno Carequinha",
+      "email": "teste2@gmail.com",
+      "password": "testes"
+    },
+    {
+      "id": "d8a8",
+      "username": "Aluno Carequinha",
+      "email": "teste@gmail.com",
+      "password": "testes"
+    },
+    {
+      "id": "6fa8",
+      "username": "Aluno Carequinha",
+      "email": "teste@gmail.com",
+      "password": "testes"
+    },
+    {
+      "id": "5792",
+      "username": "Aluno Carequinha",
+      "email": "teste@gmail.com",
+      "password": "testes"
+    }
+  ],
+  "account": [
+    {
+      "id": "67607133f840bb97892eb659",
+      "type": "Debit",
+      "userId": "67607133f840bb97892eb657"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "67607174f840bb97892eb669",
+      "accountId": "67607133f840bb97892eb659",
+      "type": "Debit",
+      "value": -200,
+      "date": "2024-12-16T18:29:08.734Z"
+    },
+    {
+      "id": "67607174f840bb97892eb669",
+      "accountId": "67607133f840bb97892eb659",
+      "type": "Credit",
+      "value": 200,
+      "from": "text",
+      "to": "text",
+      "anexo": "text",
+      "date": "2024-12-16T18:29:08.734Z"
+    },
+    {
+      "id": "67607174f840bb97892eb669",
+      "accountId": "67607133f840bb97892eb659",
+      "type": "Debit",
+      "value": -200,
+      "date": "2025-01-12T18:45:10.448Z"
+    }
+  ],
+  "cards": [
+    {
+      "id": "67607133f840bb97892eb65b",
+      "accountId": "67607133f840bb97892eb659",
+      "type": "Debit",
+      "is_blocked": false,
+      "number": "13748712374891010",
+      "dueDate": "2027-01-07T00:00:00.000Z",
+      "functions": "Debit",
+      "cvc": "505",
+      "paymentDate": null,
+      "name": "Carequinha"
+    }
+  ]
 }
