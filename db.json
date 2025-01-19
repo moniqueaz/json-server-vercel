@@ -14,6 +14,22 @@
       "mes": "Dezembro",
       "tipo": "deposit",
       "data": "09/12/2024",
+      "valor": 500,
+      "timestamp": "2024-12-09T20:35:06.705Z"
+    },
+    {
+      "id": "7e09",
+      "mes": "Janeiro",
+      "tipo": "deposit",
+      "data": "09/01/2024",
+      "valor": 1000,
+      "timestamp": "2024-12-09T20:35:06.705Z"
+    },
+    {
+      "id": "7e09",
+      "mes": "Fevereiro",
+      "tipo": "deposit",
+      "data": "09/02/2024",
       "valor": 1000,
       "timestamp": "2024-12-09T20:35:06.705Z"
     }
@@ -21,7 +37,7 @@
   "saldo": [
     {
       "tipo": "Conta corrente",
-      "valor": 1000,
+      "valor": 2500,
       "id": "1"
     },
     {
