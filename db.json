@@ -102,25 +102,25 @@
   "user": [
     {
       "id": "82de",
-      "username": "Aluno Carequinha",
+      "name": "Aluno Carequinha",
       "email": "teste2@gmail.com",
       "password": "testes"
     },
     {
       "id": "d8a8",
-      "username": "Aluno Carequinha",
+      "name": "Aluno Carequinha",
       "email": "teste@gmail.com",
       "password": "testes"
     },
     {
       "id": "6fa8",
-      "username": "Aluno Carequinha",
+      "name": "Aluno Carequinha",
       "email": "teste@gmail.com",
       "password": "testes"
     },
     {
       "id": "5792",
-      "username": "Aluno Carequinha",
+      "name": "Aluno Carequinha",
       "email": "teste@gmail.com",
       "password": "testes"
     }
